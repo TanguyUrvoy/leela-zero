@@ -33,6 +33,6 @@ directly.
 Copy the compiled leelaz binary into the autogtp directory, and run
 autogtp.
 
-    cp ../src/leelaz .
+    cp ../leelaz . # or cp ../src/leelaz . on some machines
     ./autogtp
 
